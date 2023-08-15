@@ -1,0 +1,2 @@
+# ignore paddle generated intermediate files 
+core.*
